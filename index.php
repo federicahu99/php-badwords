@@ -8,4 +8,9 @@ echo $text;
 echo '<br> <br/>';
 echo strlen($text);
 
+//query
+
+$bad_word = $_GET['mele'];
+echo $bad_word; 
+
 ?>
